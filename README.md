@@ -1,4 +1,4 @@
-<h3>О себе </h3>
+<h3>О себе</h3>
 
 Привет,меня зовут Александр,живу в Санкт-Петербурге.
 
@@ -12,7 +12,7 @@
 <h3>Языки и инструменты,которыми я владею:</h3>
 
 `Qase`,`Miro`,`Jira`,`Confluence`,`Postman`,`Mockoon`,`Swagger`,`Visual Studio Code`,`pgAdmin4`,
-`Jmeter`,`DevTools`,`HTML`,`CSS` ,`XML`,`WSDL`,`JSON`,`JavaScript`,`GitHub`,`Git` 
+`Jmeter`,`DevTools`,`HTML`,`CSS`,`XML`,`WSDL`,`JSON`,`JavaScript`,`GitHub`,`Git` 
 
 **Проект “Основы тестирования”**
 
