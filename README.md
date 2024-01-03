@@ -12,7 +12,7 @@
 <h3>Языки и инструменты,которыми я владею:</h3>
 
 `Qase`,`Miro`,`Jira`,`Confluence`,`Postman`,`Mockoon`,`Swagger`,`Visual Studio Code`,`pgAdmin4`,
-`Jmeter`,`DevTools`,`HTML`,`CSS`,`XML`,`WSDL`,`JSON`,`JavaScript`,`GitHub`,`Git` 
+`Jmeter`,`DevTools`,`HTML`,`CSS`,`XML`,`WSDL`,`JSON`,`JavaScript`,`GitHub`,`Git`,`Android studio`, `Charles`
 
 <h1>Мои проекты</h1>
 
